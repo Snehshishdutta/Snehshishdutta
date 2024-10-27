@@ -122,3 +122,13 @@
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehshishdutta&theme=github-dark&area=true" alt="Contribution Graph" />
 <img width="2000rem" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+<!--<div align="center">
+  <h3>Profile Stats</h3>
+  <img src="https://komarev.com/ghpvc/?username=Snehshishdutta&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Snehshishdutta?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Snehshishdutta?style=social" alt="GitHub Stars"/>
+
+</div>
+
+<img width="2000rem" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">-->
