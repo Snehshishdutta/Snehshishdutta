@@ -56,7 +56,7 @@
 <img width="2000rem" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
-## GSSOC(24) Badges 🪶
+## GSSoC(Extd-24) Badges 🪶
 <p style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024">
 <img src="https://gssoc.girlscript.tech/badges/postman.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
