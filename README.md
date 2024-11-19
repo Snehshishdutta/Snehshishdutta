@@ -111,7 +111,7 @@
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Snehshishdutta&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehshishdutta&theme=radical" alt="GitHub Streak" width="420"/><br>
+    <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehshishdutta&theme=radical" alt="GitHub Streak" width="420"/><br>-->
 <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehshishdutta&layout=compact&theme=radical" alt="Top Languages" width="400" /><br>
     <br>
 <br><img src="https://github-profile-trophy.vercel.app/?username=Snehshishdutta&theme=discord&no-frame=false&no-bg=true&column=-1&row=2" height="150" alt="GitHub Trophies" />
