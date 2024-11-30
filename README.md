@@ -14,7 +14,8 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10&color=FF2D7FF3&multiline=true&width=500&height=40&lines=  Your+Friendly+Neighborhood+Developer" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  I'm a passionate student with a strong interest in software development, data structures and open-source contributions. Currently; I am practicing Kotlin, an expressive language whereas learning DSA with Java. I am also fascinated by how effective and efficient the DevOps approaches are. My goal is to build a good practice of these areas in the future and make a contribution toward innovative projects. 
+  I'm a passionate student with a strong interest in software development, data structures and open-source contributions. Currently; I am exploring Ai Ml whereas learning DSA with Java. My goal is to build a 
+  good practice of these areas in the future and make a contribution toward innovative projects. 
 <br><br>
   <img align="centre" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
