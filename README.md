@@ -11,7 +11,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10&color=FF2D7FF3&multiline=true&width=500&height=40&lines=  Your+Friendly+Neighborhood+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Your+Friendly+Neighborhood+Developer" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   I'm a passionate student with a strong interest in software development, data structures and open-source contributions. Currently; I am exploring Ai Ml whereas learning DSA with Java. My goal is to build a 
