@@ -53,24 +53,6 @@
 <br>
 </p>
 
-
-<img width="2000rem" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-
-## GSSoC(Extd-24) Badges 🪶
-<p style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024">
-<img src="https://gssoc.girlscript.tech/badges/postman.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
-  <!--<img src="https://gssoc.girlscript.tech/badges/6.png" width="105px" height="105px" />
-  <img src="https://gssoc.girlscript.tech/badges/7.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/8.png" width="100px" height="100px" /></a>-->
-</p>
-
-
 <br>
 <img width="2000rem" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
